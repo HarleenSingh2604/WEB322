@@ -10,7 +10,7 @@
 * Name: Harleen Singh
 * Student ID: 116871229
 * Date: October 15th, 2024
-* Published URL: [Your Vercel URL here]
+* Published URL: [https://web-322-psi.vercel.app/]
 ********************************************************************************/
 
 const express = require('express');
